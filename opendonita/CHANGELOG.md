@@ -1,3 +1,6 @@
+## 0.3.9
+
+- Add ports descriptions
 ## 0.3.8
 
 - Patch upnp library to work with Python3.10
